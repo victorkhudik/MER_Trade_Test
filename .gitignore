@@ -1,0 +1,7 @@
+.idea/
+**/vendor/
+
+tasks/02-wms-fbs-marking/
+tasks/03-b2b-prices/
+tasks/05-crm-clients/
+tasks/06-open-improvement/
